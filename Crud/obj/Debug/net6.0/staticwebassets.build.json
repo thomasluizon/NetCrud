@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "QO/TwMNKR0xBG5jSq0kf2RK/ADrxkD9E4WZbo5GP+2o=",
+  "Source": "Crud",
+  "BasePath": "_content/Crud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Crud\\wwwroot",
+      "Source": "Crud",
+      "ContentRoot": "D:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\wwwroot\\",
+      "BasePath": "_content/Crud",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\wwwroot\\style.css",
+      "SourceId": "Crud",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\wwwroot\\",
+      "BasePath": "_content/Crud",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
