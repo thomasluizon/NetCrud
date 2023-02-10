@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\Crud.csproj": {}
+    "D:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\Crud.csproj": {}
   },
   "projects": {
-    "d:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\Crud.csproj": {
+    "D:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\Crud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\Crud.csproj",
+        "projectUniqueName": "D:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\Crud.csproj",
         "projectName": "Crud",
-        "projectPath": "d:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\Crud.csproj",
+        "projectPath": "D:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\Crud.csproj",
         "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "d:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\obj\\",
+        "outputPath": "D:\\Programming\\techs\\.net\\CRUDSolution\\Crud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
